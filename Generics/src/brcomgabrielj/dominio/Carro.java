@@ -1,5 +1,6 @@
 package dominio;
 
+
 public class Carro<T> {
     private String modelo;
     private String marca;
